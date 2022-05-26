@@ -1,2 +1,2 @@
-# Sh4dygh0st.guthub.io
+# Sh4dygh0st.github.io
 Demo Page
